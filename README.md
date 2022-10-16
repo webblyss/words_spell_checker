@@ -3,5 +3,5 @@
 ## PYTHON PACKAGES USED
 #pandas
 for loading dataset and for data manipulation
-#textblob
+#from textblob import Word
 Word() is a simple word representation from the textblob library which has many useful methods, especially for checking the spelling
